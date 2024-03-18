@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 <h3>Name : Sarankumar J</h3>
-<h3>REG.NO: 212221230087</h3>
+<h3>Register No : 212221230087</h3>
 <h3>Ex No : 02</h3>
 <h3>Date : 18.03.2024</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
